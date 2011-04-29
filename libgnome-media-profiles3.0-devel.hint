@@ -1,4 +1,4 @@
 category: Gnome Audio Video
-requires: libgnome-media-profiles3.0_0 libgconf2-devel libglib2.0-devel libgstreamer0.10-devel libgtk3.0-devel gettext
+requires: libgnome-media-profiles3.0_0 libgconf2-devel libglib2.0-devel libgstreamer0.10-devel libgtk3-devel gettext
 external-source: gnome-media-profiles
 sdesc: "GNOME media profiles library (development)"

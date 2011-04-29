@@ -1,4 +1,4 @@
 category: Gnome Audio Video
-requires: libgconf2_4 libglib2.0_0 libgstreamer0.10_0 libgtk3.0_0 libintl8
+requires: libgconf2_4 libglib2.0_0 libgstreamer0.10_0 libgtk3_0 libintl8
 external-source: gnome-media-profiles
 sdesc: "GNOME media profiles library (runtime)"
