@@ -4,6 +4,6 @@ inherit gnome2
 DESCRIPTION="GNOME media profiles library"
 
 PKG_NAMES="${PN} lib${PN}3.0_0 lib${PN}3.0-devel"
-gnome_media_profiles_CONTENTS="etc/ usr/bin/*.exe usr/share/doc/ usr/share/gnome/ usr/share/locale/ usr/share/omf/"
-libgnome_media_profiles3_0_0_CONTENTS="usr/bin/*-3.0-0.dll usr/share/lib${PN}/"
+gnome_media_profiles_CONTENTS="usr/bin/*.exe usr/share/doc/ usr/share/gnome/ usr/share/omf/"
+libgnome_media_profiles3_0_0_CONTENTS="etc/ usr/bin/*-3.0-0.dll usr/share/lib${PN}/ usr/share/locale/"
 libgnome_media_profiles3_0_devel_CONTENTS="usr/include/ usr/lib/"
